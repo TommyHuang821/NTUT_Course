@@ -7,7 +7,7 @@ chih.sheng.huang821@gmail.com<br>
 tommy.huang@emc.com.tw<br>
 
 **110學年度 第1學期** </br>
-[- 人工智慧邊緣運算實務與實現]()
+[- 人工智慧邊緣運算實務與實現](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_110-1_EdgeAICourse)
 
 **110學年度 第2學期** </br>
-[- 模組單元課程-多媒體技術與應用]()
+[- 模組單元課程-多媒體技術與應用](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_110-2_MTA)
