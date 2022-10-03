@@ -33,15 +33,16 @@ Python
  |第06週|2022/10/20 | XXX| 陳彥霖教授 |  XXX | XXX |
  |第08週|2022/10/27 | XXX| 陳彥霖教授 |  XXX | XXX |
  |第09週|2022/11/03 | XXX| 陳彥霖教授 |  XXX | XXX |
- |第10週|2022/11/10 | Introduction for AI project Flow | 黃志勝 |  XXX | XXX |
- |第11週|2022/11/17 | Pytorch – datasetand Dataloader| 黃志勝 |  XXX | XXX |
- |第12週|2022/11/24 | Pytorch – Introduction for pytorch components, gradient、MLP、Regression| 黃志勝 |  XXX | XXX |
+ |第10週|2022/11/10 | 期中考周 | 陳彥霖教授 |  XXX | XXX |
+ |第11週|2022/11/17 | Introduction for AI project Flow | 黃志勝 |  XXX | XXX |
+ |第12週|2022/11/24 | Pytorch – datasetand Dataloader| 黃志勝 |  XXX | XXX |
  |第13週|2022/12/01 | Pytorch – Introduction for pytorch components, gradient、MLP、Regression| 黃志勝 |  XXX | XXX |
- |第14週|2022/12/08 | Pytorch – CNN| 黃志勝 |  XXX | XXX |
- |第15週|2022/12/15 | Pytorch – Object Detection| 黃志勝 |  XXX | XXX |
- |第16週|2022/12/22 | Pytorch – Segmentation、GAN| 黃志勝 |  XXX | XXX |
- |第17週|2022/12/29 | Pytorch – AutoEncoder、Self-Supervised Learning| 黃志勝 |  XXX | XXX |
- |第18週|2023/01/05 | Keynote Speech | 暫定: 李謦伊 |  XXX | XXX |
+ |第14週|2022/12/08 | Pytorch – Introduction for pytorch components, gradient、MLP、Regression| 黃志勝 |  XXX | XXX |
+ |第15週|2022/12/15 | Pytorch – CNN| 黃志勝 |  XXX | XXX |
+ |第16週|2022/12/22 | Pytorch – Object Detection| 黃志勝 |  XXX | XXX |
+ |第17週|2022/12/29 | Pytorch – Segmentation、GAN| 黃志勝 |  XXX | XXX |
+ |第18週|2023/01/05 | Pytorch – AutoEncoder、Self-Supervised Learning| 黃志勝 |  XXX | XXX |
+ |第19週|2023/01/12 | Keynote Speech | 暫定: 李謦伊 |  XXX | XXX |
 
 
 
