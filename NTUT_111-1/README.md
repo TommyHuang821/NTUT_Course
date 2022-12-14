@@ -11,6 +11,8 @@
 比賽成績: 50% <br>
 出席: 10% <br>
 
+[專題比賽說明連結](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-1/Homework/README.md)
+
 * **程式語言** <br>
 Python
 
