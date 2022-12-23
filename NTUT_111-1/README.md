@@ -1,5 +1,6 @@
 # 國立台北科技大學 111學年度第1學期 嵌入式智慧影像分析與實境界面(Embedded Computing Systems for Intelligent Image Analytics and Interactive Systems)
-公告:無<br>  
+公告:<br>
+本教材的pytorch版本為1.9.0<br>
 
 ## 本課程以實體課程方式進行: 地點→北科科研大樓 235教室/1222電腦教室 
 
