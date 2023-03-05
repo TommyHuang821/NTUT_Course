@@ -39,7 +39,7 @@ Python
  |:---:|:---:|:---|:---|:---|:---|
  |第01週|2022/02/22 | 課程大綱及AI技術簡介| 陳彥霖教授、黃志勝 | - [1. AI技術簡介和AI趨勢_cut.pdf](https://reurl.cc/xlg8ke)<br> - [OpenAI Whisper 語音辨識並輸出字幕檔案程式.ipynb](https://reurl.cc/LN0oZ3)|六教427|
  |第02週|2022/03/01 | OpenCV| 陳彥霖教授 | 臨時有事情和陳彥霖老師調課 ||
- |第03週|2022/03/08 | 機器與深度學習常用的數學 <br> 相關機率論與統計學 | 黃志勝  |  | 六教427|
+ |第03週|2022/03/08 | 機器與深度學習常用的數學 <br> 相關機率論與統計學 | 黃志勝  | PPT: [Introduction for Basics.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/2.%20Introduction%20for%20Basics.pdf)<br> 1. [week03_Introduction for Basics.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week03_Introduction%20for%20Basics.ipynb)<br> 2. [week3_binaryfile.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week3_binaryfile.ipynb)<br> 3. [week3_利用SVD的技術來壓縮影像.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week3_%E5%88%A9%E7%94%A8SVD%E7%9A%84%E6%8A%80%E8%A1%93%E4%BE%86%E5%A3%93%E7%B8%AE%E5%BD%B1%E5%83%8F.ipynb) | 六教427|
  |第04週|2022/03/15 | 最佳化方法簡介  | 黃志勝   |  | 六教427|
  |第05週|2022/03/22 | Gradient descent <br> 導傳遞 <br> Weight Initialization <br> 	| 黃志勝 |  |六教427|
  |第06週|2022/03/29| 運動會停課、視學校公告 | ?? |  |六教427|
