@@ -42,11 +42,11 @@ Python
  |第03週|2022/03/08 | 機器與深度學習常用的數學 <br> 相關機率論與統計學 | 黃志勝  | PPT: [Introduction for Basics.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/2.%20Introduction%20for%20Basics.pdf)<br> 1. [week03_Introduction for Basics.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week03_Introduction%20for%20Basics.ipynb)<br> 2. [week3_binaryfile.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week3_binaryfile.ipynb)<br> 3. [week3_利用SVD的技術來壓縮影像.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week3_%E5%88%A9%E7%94%A8SVD%E7%9A%84%E6%8A%80%E8%A1%93%E4%BE%86%E5%A3%93%E7%B8%AE%E5%BD%B1%E5%83%8F.ipynb) | 六教427|
  |第04週|2022/03/15 | 最佳化方法簡介  | 黃志勝  | PPT: [week4 Optimal.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week4%20Optimal.pdf)<br> [week4_example.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week4_example.ipynb) | 六教427|
  |第05週|2022/03/22 | 運動會停課、視學校公告	| 黃志勝 |  |六教427|
- |第06週|2022/03/29|  Gradient descent <br> 導傳遞 <br> Weight Initialization <br>| 黃志勝 |  |六教427|
+ |第06週|2022/03/29|  迴歸分析、分類| 黃志勝 | PPT: <br> -[迴歸分析](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week6%20Linear%20regression.pdf)<br>-[分類](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week6%20Classification.pdf)<br> Code Example:<br>-[week06_LinearRegression.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week06_LinearRegression.ipynb)<br> -[week06_classification.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week06_classification.ipynb)<br> |六教427|
  |第07週|2022/04/05 | 清明節 | 放假 | |六教427|
- |第08週|2022/04/12| 迴歸分析、分類	 | 黃志勝 | |六教427|
- |第09週|2022/04/19 |統計降維法 | 黃志勝 | |六教427|
- |第10週|2022/04/26 | 類神經網路| 黃志勝 |  |六教427|
+ |第08週|2022/04/12| 	統計降維法 | 黃志勝 | |六教427|
+ |第09週|2022/04/19 | 類神經網路| 黃志勝 | |六教427|
+ |第10週|2022/04/26 | Gradient descent <br> 導傳遞 <br> Weight Initialization <br>| 黃志勝 |  |六教427|
  |第11週|2022/05/03 | **期中考周**| 黃志勝 | |科研1222、1223|
  |第12週|2022/05/09 | | 陳彥霖教授 |  ||
  |第13週|2022/05/17 | | 陳彥霖教授 |  ||
