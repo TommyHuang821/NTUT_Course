@@ -19,7 +19,7 @@
 第06週	2022/03/29	迴歸分析、分類 <br>
 - [作業1](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/HomeWork/HW1.ipynb) <br>
 資料下載 [HW1-RegressionExample.txt](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/HomeWork/HW1-RegressionExample.txt) <br>
-**繳交期限 4/12 **
+**繳交期限 4/12 晚上12點 **
 
 
 
