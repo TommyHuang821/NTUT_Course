@@ -44,7 +44,7 @@ Python
  |第05週|2022/03/22 | 運動會停課、視學校公告	| 黃志勝 |  |六教427|
  |第06週|2022/03/29|  迴歸分析、分類 <br> **本周有作業1，請看[link](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_111-2_MTA/HomeWork)**| 黃志勝 | PPT: <br> -[迴歸分析](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week6%20Linear%20regression.pdf)<br>-[分類](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week6%20Classification.pdf)<br> Code Example:<br>-[week06_LinearRegression.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week06_LinearRegression.ipynb)<br> -[week06_classification.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week06_classification.ipynb)<br> |六教427|
  |第07週|2022/04/05 | 清明節 | 放假 | |六教427|
- |第08週|2022/04/12| 	統計降維法 | 黃志勝 | |六教427|
+ |第08週|2022/04/12| 	統計降維法 | 黃志勝 | PPT:<br> [Week 08_統計降維法.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/Week%2008_%E7%B5%B1%E8%A8%88%E9%99%8D%E7%B6%AD%E6%B3%95.pdf)<br> Code Example:<br> [Week08_特徵選取法.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/Week08_%E7%89%B9%E5%BE%B5%E9%81%B8%E5%8F%96%E6%B3%95.ipynb)<br> [Week08_特徵萃取.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/Week08_%E7%89%B9%E5%BE%B5%E8%90%83%E5%8F%96.ipynb) |六教427|
  |第09週|2022/04/19 | 類神經網路| 黃志勝 | |六教427|
  |第10週|2022/04/26 | Gradient descent <br> 導傳遞 <br> Weight Initialization <br>| 黃志勝 |  |六教427|
  |第11週|2022/05/03 | **期中考周**| 黃志勝 | |科研1222、1223|
