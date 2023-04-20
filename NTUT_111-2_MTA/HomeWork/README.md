@@ -22,6 +22,13 @@
 **繳交期限 4/12 晚上12點 **
 
 
+### 作業2
+第10週	2022/04/26 <br>
+- [作業2](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/HomeWork/HW2.ipynb) <br>
+資料下載 [data_weight_multlfeatutes.xlsx](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/HomeWork/data_weight_multlfeatutes.xlsx) <br>
+**繳交期限 5/3 中午12點 **
+
+
 
 
 
