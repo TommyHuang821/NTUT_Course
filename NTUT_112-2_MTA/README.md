@@ -9,13 +9,10 @@
 陳彥霖教授、黃志勝博士 <br>
 
 * **業師評分部分：** <br>
-作業: 40% <br>
-期中考: 40% <br>
+作業: 80% <br>
 出席: 20% <br>
 課程問答: 加分<br>
 
-* **作業2次 [作業公告區](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_111-2_MTA/HomeWork):  <br>
-** 預計第六周和第十周會出作業 <br>
 **繳交要求**: 本次作業為個人作業<br>
 **作業繳交項目**: 程式檔 ipynb 或 py 檔 <br>
 超過時間遲交每隔一週（含一週內）分數打 8 折，採累計連乘方式  <br>
@@ -31,30 +28,14 @@ Python
 
 * **教材** <br>
 [機器學習的統計基礎：深度學習背後的核心技術](https://www.flag.com.tw/books/product/F1319)
-![image](https://user-images.githubusercontent.com/25295252/154414691-323e68f1-e029-42a4-88ac-c53e4763a328.png)
-<br><br><br><br>
+
 
 
  |週次|上課日期|課程進度、內容、主題|授課老師|資料| 地點 |
  |:---:|:---:|:---|:---|:---|:---|
- |第01週|2022/02/22 | 課程大綱及AI技術簡介| 陳彥霖教授、黃志勝 | - [1. AI技術簡介和AI趨勢_cut.pdf](https://reurl.cc/xlg8ke)<br> - [OpenAI Whisper 語音辨識並輸出字幕檔案程式.ipynb](https://reurl.cc/LN0oZ3)|六教427|
- |第02週|2022/03/01 | OpenCV| 陳彥霖教授 | 臨時有事情和陳彥霖老師調課 ||
- |第03週|2022/03/08 | 機器與深度學習常用的數學 <br> 相關機率論與統計學 | 黃志勝  | PPT: [Introduction for Basics.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/2.%20Introduction%20for%20Basics.pdf)<br> 1. [week03_Introduction for Basics.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week03_Introduction%20for%20Basics.ipynb)<br> 2. [week3_binaryfile.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week3_binaryfile.ipynb)<br> 3. [week3_利用SVD的技術來壓縮影像.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week3_%E5%88%A9%E7%94%A8SVD%E7%9A%84%E6%8A%80%E8%A1%93%E4%BE%86%E5%A3%93%E7%B8%AE%E5%BD%B1%E5%83%8F.ipynb) | 六教427|
- |第04週|2022/03/15 | 最佳化方法簡介  | 黃志勝  | PPT: [week4 Optimal.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week4%20Optimal.pdf)<br> [week4_example.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week4_example.ipynb) | 六教427|
- |第05週|2022/03/22 | 運動會停課、視學校公告	| 黃志勝 |  |六教427|
- |第06週|2022/03/29|  迴歸分析、分類 <br> **本周有作業1，請看[link](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_111-2_MTA/HomeWork)**| 黃志勝 | PPT: <br> -[迴歸分析](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week6%20Linear%20regression.pdf)<br>-[分類](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/week6%20Classification.pdf)<br> Code Example:<br>-[week06_LinearRegression.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week06_LinearRegression.ipynb)<br> -[week06_classification.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/week06_classification.ipynb)<br> |六教427|
- |第07週|2022/04/05 | 清明節 | 放假 | |六教427|
- |第08週|2022/04/12| 	統計降維法 | 黃志勝 | PPT:<br> [Week 08_統計降維法.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/Week%2008_%E7%B5%B1%E8%A8%88%E9%99%8D%E7%B6%AD%E6%B3%95.pdf)<br> Code Example:<br> [Week08_特徵選取法.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/Week08_%E7%89%B9%E5%BE%B5%E9%81%B8%E5%8F%96%E6%B3%95.ipynb)<br> [Week08_特徵萃取.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/code/Week08_%E7%89%B9%E5%BE%B5%E8%90%83%E5%8F%96.ipynb) |六教427|
- |第09週|2022/04/19 | 類神經網路| 黃志勝 | PPT:<br> [Week09 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_111-2_MTA/ppt/Week09%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf) <br> Code Example:<br> [第九周程式碼](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_111-2_MTA/code/week09) |六教427|
- |第10週|2022/04/26 | Gradient descent <br> 導傳遞 <br> Weight Initialization <br>**本周有作業2，請看[link](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_111-2_MTA/HomeWork)**| 黃志勝 |  |六教427|
- |第11週|2022/05/03 | **期中考周**| 黃志勝 | |科研1222、1223|
- |第12週|2022/05/09 | | 陳彥霖教授 |  ||
- |第13週|2022/05/17 | | 陳彥霖教授 |  ||
- |第14週|2022/05/24 | | 陳彥霖教授 |  ||
- |第15週|2022/05/31 | | 陳彥霖教授 |  ||
- |第16週|2022/06/07 | | 陳彥霖教授 |  ||
- |第17週|2022/06/14 | | 陳彥霖教授 |  ||
- |第18週|2022/06/21 | 期末專題| 陳彥霖教授、黃志勝 |  |科研1222|
+ |第01週|2024/03/27 |  | 黃志勝 |  |六教427|
+ |第02週|2024/04/03 |  | 黃志勝 |  |六教427|
+ |第03週|2024/04/10 |  | 黃志勝 |  | 六教427|
 
 
 
