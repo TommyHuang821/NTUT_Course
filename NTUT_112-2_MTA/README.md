@@ -33,9 +33,9 @@ Python
 
  |週次|上課日期|課程進度、內容、主題|授課老師| 地點 |
  |:---:|:---:|:---|:---|:---|
- |第01週|2024/03/27 | [1-1 AI介紹](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-1%20AI%E4%BB%8B%E7%B4%B9.pdf) <br> [1-2 Pytorch簡介](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-2%20Pytorch.pdf)<br>  - [pytorch基本操作程式碼](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/code/1-2%20Pytorch.ipynb) <br> [1-3 分類與迴歸](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-3%E5%88%86%E9%A1%9E%E8%88%87%E8%BF%B4%E6%AD%B8.pdf)| 黃志勝 | 六教427|
- |第02週|2024/04/03 |[2 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/2%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf)<br> [- Code example](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/code/week2) <br> [- 作業資料](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/HomeWork)| 黃志勝 | 六教427|
- |第03週|2024/04/10 |  | 黃志勝 |  六教427|
+ |第01週|2024/03/27 | [1-1 AI介紹](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-1%20AI%E4%BB%8B%E7%B4%B9.pdf) <br> [1-2 Pytorch簡介](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-2%20Pytorch.pdf)<br>  - [pytorch基本操作程式碼](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/code/1-2%20Pytorch.ipynb) <br> [1-3 分類與迴歸](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-3%E5%88%86%E9%A1%9E%E8%88%87%E8%BF%B4%E6%AD%B8.pdf)| 黃志勝 |234e|
+ |第02週|2024/04/03 |[2 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/2%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf)<br> [- Code example](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/code/week2) <br> [- 作業資料](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/HomeWork)| 黃志勝 | 234e|
+ |第03週|2024/04/10 |  | 黃志勝 |  234e|
 
 
 
