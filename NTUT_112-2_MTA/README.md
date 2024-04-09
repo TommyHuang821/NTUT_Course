@@ -9,9 +9,10 @@
 陳彥霖教授、黃志勝博士 <br>
 
 * **業師評分部分：** <br>
-作業: 80%: 只有一份，第二周出作業。 <br>
-出席: 20% <br>
+作業: 50%: 只有一份，第二周出作業。 <br>
+出席: 10% <br>
 課程問答: 加分<br>
+期中考: 40%
 
 **繳交要求**: 本次作業為個人作業<br>
 **作業繳交項目**: 程式檔 ipynb <br>
@@ -35,7 +36,7 @@ Python
  |:---:|:---:|:---|:---|:---|
  |第01週|2024/03/27 | [1-1 AI介紹](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-1%20AI%E4%BB%8B%E7%B4%B9.pdf) <br> [1-2 Pytorch簡介](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-2%20Pytorch.pdf)<br>  - [pytorch基本操作程式碼](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/code/1-2%20Pytorch.ipynb) <br> [1-3 分類與迴歸](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-3%E5%88%86%E9%A1%9E%E8%88%87%E8%BF%B4%E6%AD%B8.pdf)| 黃志勝 |234e|
  |第02週|2024/04/03 |[2 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/2%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf)<br> [- Code example](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/code/week2) <br> [- 作業資料](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/HomeWork)| 黃志勝 | 234e|
- |第03週|2024/04/10 |  | 黃志勝 |  234e|
+ |第03週|2024/04/10 | [3 影像分析深度學習模型應用](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/3%20%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8.pdf) <br> [- Code example](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/code/week3)| 黃志勝 |  234e|
 
 
 
