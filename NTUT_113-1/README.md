@@ -20,10 +20,9 @@ Python
 
  |週次|上課日期|課程進度、內容、主題|授課老師|資料| Code | 地點 |
  |:---: |:---:      |:---|:---       |:---  |:---|:---|
- |第週|2024/11/12 | NLP簡介、Tokenizer、RNN、LSTM、transformer| 黃志勝 | [week01-1_NLP簡介和Tokenizer.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week01-1_NLP%E7%B0%A1%E4%BB%8B%E5%92%8CTokenizer.pdf)  | [Tokenizer.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/main_Tokenizer.ipynb) <br> [data](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-1/Code/dataset)| |
- |第週|2024/11/19 | XXX | 黃志勝 |   |  | |
- |第週|2024/11/26 | XXX | 黃志勝 | | | 科研1222 |
-
+ |第週|2024/11/19 | NLP簡介、Tokenizer、RNN、LSTM、transformer| 黃志勝 | [week01-1_NLP簡介和Tokenizer.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week01-1_NLP%E7%B0%A1%E4%BB%8B%E5%92%8CTokenizer.pdf)  | [Tokenizer.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/main_Tokenizer.ipynb) <br> [data](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-1/Code/dataset)| |
+ |第週|2024/11/26 | XXX | 黃志勝 |   |  | |
+ |第週|2024/12/03 | XXX | 黃志勝 | | | 科研1222 |
 
 
 
