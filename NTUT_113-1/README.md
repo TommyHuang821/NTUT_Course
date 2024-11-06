@@ -7,8 +7,7 @@
 陳彥霖教授、黃志勝博士 <br>
 
 * **業師評分部分：** <br>
-比賽成績: XX% <br>
-出席: XX% <br>
+待確認 <br>
 
 * **程式語言** <br>
 Python
@@ -20,9 +19,9 @@ Python
 
  |週次|上課日期|課程進度、內容、主題|授課老師|資料| Code | 地點 |
  |:---: |:---:      |:---|:---       |:---  |:---|:---|
- |第週|2024/11/19 | NLP簡介、Tokenizer、RNN、LSTM、transformer| 黃志勝 | [week01-1_NLP簡介和Tokenizer.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week01-1_NLP%E7%B0%A1%E4%BB%8B%E5%92%8CTokenizer.pdf)  | [Tokenizer.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/main_Tokenizer.ipynb) <br> [data](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-1/Code/dataset)| |
- |第週|2024/11/26 | XXX | 黃志勝 |   |  | |
- |第週|2024/12/03 | XXX | 黃志勝 | | | 科研1222 |
+ |第週|2024/11/19 | ONNX簡介、ONNX操作 <br> openCV簡易操作: 人臉偵測、人臉表情變換(非AI)| 黃志勝 |  [week01_Pytorch_ONNX.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week01_Pytorch_ONNX.pdf) | [week01_main_onnx.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/week01_main_onnx.ipynb) <br> [OpenCV 人臉偵測.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/opencv%E6%93%8D%E4%BD%9C/OpenCV%20%E4%BA%BA%E8%87%89%E5%81%B5%E6%B8%AC.ipynb) <br> [OpenCV 人臉偵測_mosaic.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/opencv%E6%93%8D%E4%BD%9C/OpenCV%20%E4%BA%BA%E8%87%89%E5%81%B5%E6%B8%AC_mosaic.ipynb) <br> [OpenCV 人臉偵測表情置換.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/opencv%E6%93%8D%E4%BD%9C/OpenCV%20%E4%BA%BA%E8%87%89%E5%81%B5%E6%B8%AC%E8%A1%A8%E6%83%85%E7%BD%AE%E6%8F%9B.ipynb)||
+ |第週|2024/11/26 | NLP簡介、Tokenizer| 黃志勝 | [week01-1_NLP簡介和Tokenizer.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week01-1_NLP%E7%B0%A1%E4%BB%8B%E5%92%8CTokenizer.pdf)  | [Tokenizer.ipynb](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/Code/main_Tokenizer.ipynb) <br> [data](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-1/Code/dataset)| |
+ |第週|2024/12/03 | RNN、LSTM、Transformer<br> 中英翻譯模型訓練| 黃志勝 | | | 科研1222 |
 
 
 
