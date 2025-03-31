@@ -1,7 +1,10 @@
-# 國立台北科技大學 112學年度第2學期 多媒體技術與應用
+# 國立台北科技大學 113學年度第2學期 多媒體技術與應用
 ## 公告:<br>  
 1. 此github為黃志勝業師授課部分公告教教材和作業課程資料用，陳彥霖老師部分請到北科大i學園plus<br>  
-2. 課程從基礎方法和pytorch實現。<br>
+2. 此次上課內容為生成式AI起手式。<br>
+3. Language model、VAE、Diffusiion model、Stabe Diffusiion(文生圖)、圖生圖等。
+4. 所有GAI都是*單機版*，會給範例程式，你可以回家練習。
+
 
 ## 本課程以實體課程方式進行: 地點→北科科研大樓 234e教室
 
@@ -9,13 +12,11 @@
 陳彥霖教授、黃志勝博士 <br>
 
 * **業師評分部分：** <br>
-作業: 50%: 只有一份，第二周出作業。 <br>
+作業: 90%: 只有一份，第三周出作業。 <br>
 出席: 10% <br>
 課程問答: 加分<br>
-期中考: 40%
 
 **繳交要求**: 本次作業為個人作業<br>
-### 作業程式題目指定```torch.manual_seed(2024)```請改成```torch.manual_seed(202404)```
 **作業繳交項目**: 程式檔 ipynb <br>
 超過時間遲交每隔一週（含一週內）分數打 8 折，採累計連乘方式  <br>
 舉例：<br>
@@ -33,11 +34,12 @@ Python
 
 
 
- |週次|上課日期|課程進度、內容、主題|授課老師| 地點 |
- |:---:|:---:|:---|:---|:---|
- |第01週|2024/03/27 | [1-1 AI介紹](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-1%20AI%E4%BB%8B%E7%B4%B9.pdf) <br> [1-2 Pytorch簡介](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-2%20Pytorch.pdf)<br>  - [pytorch基本操作程式碼](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/code/1-2%20Pytorch.ipynb) <br> [1-3 分類與迴歸](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/1-3%E5%88%86%E9%A1%9E%E8%88%87%E8%BF%B4%E6%AD%B8.pdf)| 黃志勝 |234e|
- |第02週|2024/04/03 |[2 神經網路與損失函數.pdf](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/2%20%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E8%88%87%E6%90%8D%E5%A4%B1%E5%87%BD%E6%95%B8.pdf)<br> [- Code example](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/code/week2) <br> [- 作業資料](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/HomeWork)| 黃志勝 | 234e|
- |第03週|2024/04/10 | [3 影像分析深度學習模型應用](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_112-2_MTA/ppt/3%20%E5%BD%B1%E5%83%8F%E5%88%86%E6%9E%90%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E6%A8%A1%E5%9E%8B%E6%87%89%E7%94%A8.pdf) <br> [- Code example](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA/code/week3)| 黃志勝 |  234e|
+
+|週次|上課日期|課程進度、內容、主題|授課老師| 地點 |
+|:---:|:---:|:---|:---|:---|
+|第01週|2024/04/16 | |:---|:---|
+|第02週|2024/04/23 | |:---|:---|
+|第03週|2024/05/07 | |:---|:---|
 
 
 
