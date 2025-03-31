@@ -23,3 +23,6 @@ tommy.huang@emc.com.tw<br>
 
 **113學年度 第1學期** </br>
 [- 嵌入式智慧影像分析與實境界面](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-1)
+
+**113學年度 第2學期** </br>
+[- 多媒體技術與應用](https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-2_MTA) 
