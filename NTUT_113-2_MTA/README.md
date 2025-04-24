@@ -37,7 +37,8 @@ Python
 
 |週次|上課日期|課程進度、內容、主題|授課老師| 地點 |
 |:---:|:---:|:---|:---|:---|
-|第01週|2024/05/07 | |:---|:---|
+|第01週|2024/05/07 | [Numba](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba.ipynb) ||:---|
+|第01週|2024/05/12 | [Numba練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba_pratice.ipynb) ||:---|
 |第02週|2024/05/14 | |:---|:---|
 |第03週|2024/05/21 | |:---|:---|
 
