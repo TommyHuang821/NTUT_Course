@@ -8,7 +8,7 @@
 所有GAI都是*單機版*，會給範例程式，你可以回家練習。
 
 
-## 本課程以實體課程方式進行: 地點→北科科研大樓 234e教室
+## 本課程以實體課程方式進行: 地點→北科科研大樓 1222
 
 * **授課教師：** <br>
 陳彥霖教授、黃志勝博士 <br>
@@ -39,10 +39,10 @@ Python
 
 |週次|上課日期|課程進度、內容、主題|授課老師| 地點 |
 |:---:|:---:|:---|:---|:---|
-|第01週|2024/05/07 | [Numba](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba.ipynb) |||
-|第01週|2024/05/12 | 作業一: [Numba練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba_pratice.ipynb) |||
-|第02週|2024/05/14 | |||
-|第03週|2024/05/21 | |||
+|第01週|2024/05/07 | [Numba](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba.ipynb) ||科研1222|
+|第01週|2024/05/12 | 作業一: [Numba練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba_pratice.ipynb) ||科研1222|
+|第02週|2024/05/14 | ||科研1222|
+|第03週|2024/05/21 | ||科研1222|
 
 **作業注意事項** <br>
 作業一: 題目三和四需要GPU加速，如果無法操作GPU請使用CPU版本(@jit修飾)<br>
