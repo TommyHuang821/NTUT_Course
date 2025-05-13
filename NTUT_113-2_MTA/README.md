@@ -49,3 +49,9 @@ Python
 作業一: 題目三和四需要GPU加速，如果無法操作GPU請使用CPU版本(@jit修飾)<br>
 用CPU寫分數不變，用GPU寫會額外+10分。
 
+------
+# OLLAMA下載
+[<img src="https://ollama.com/public/assets/c889cc0d-cb83-4c46-a98e-0d0e273151b9/42f6b28d-9117-48cd-ac0d-44baaf5c178e.png" width="100" alt="縮小圖片">](https://ollama.com/download) (ollama下載直接點圖)
+
+[OLLAMA語言模型下載](https://ollama.com/library)
+
