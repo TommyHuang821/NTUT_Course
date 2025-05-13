@@ -37,11 +37,11 @@ Python
 教師自行製作教材
 
 
-|週次|上課日期|課程進度、內容、主題|授課老師| 地點 |
+|週次|上課日期|課程進度、內容、主題|備註| 地點 |
 |:---:|:---:|:---|:---|:---|
 |第01週|2024/05/07 | [Numba](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba.ipynb) ||科研1222|
 |第01週|2024/05/12 | 作業一: [Numba練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba_pratice.ipynb) ||科研1222|
-|第02週|2024/05/14 |- [生成式AI起手式-Language Model_part1](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/ppt/%E7%94%9F%E6%88%90%E5%BC%8FAI%E8%B5%B7%E6%89%8B%E5%BC%8F-Language%20Model_part1.pdf) <br>- [NLP Tokenizer](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_Tokenizer.ipynb) <br>- [LLM互動](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/llmresponse.ipynb)||科研1222|
+|第02週|2024/05/14 |- [生成式AI起手式-Language Model_part1 (Tokenizer為主, Transformer額外](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/ppt/%E7%94%9F%E6%88%90%E5%BC%8FAI%E8%B5%B7%E6%89%8B%E5%BC%8F-Language%20Model_part1.pdf) <br>- [NLP Tokenizer](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_Tokenizer.ipynb) <br>- [LLM互動](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/llmresponse.ipynb)|[Seq2Seq詳細介紹看這份投影片](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week03_RNN%26Transformer.pdf)|科研1222|
 |第02週|2024/05/19 |作業二: [llmresponse練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/llmresponse_homework.ipynb)||科研1222|
 |第03週|2024/05/21 | ||科研1222|
 
