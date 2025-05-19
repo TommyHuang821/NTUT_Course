@@ -1,5 +1,7 @@
 # 國立台北科技大學 112學年度第2學期 多媒體技術與應用
 ## 公告:<br>  
+📥 [下載此課程資料](https://download-directory.github.io/?url=https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_112-2_MTA)
+
 1. 此github為黃志勝業師授課部分公告教教材和作業課程資料用，陳彥霖老師部分請到北科大i學園plus<br>  
 2. 課程從基礎方法和pytorch實現。<br>
 
