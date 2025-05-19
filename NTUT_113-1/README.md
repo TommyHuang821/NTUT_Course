@@ -1,5 +1,6 @@
 # 國立台北科技大學 113學年度第1學期 嵌入式智慧影像分析與實境界面(Embedded Computing Systems for Intelligent Image Analytics and Interactive Systems)
 公告:<br>
+📥 [下載此課程資料](https://download-directory.github.io/?url=https://github.com/TommyHuang821/NTUT_Course/tree/main/NTUT_113-1)
 
 ## 本課程以實體課程方式進行: 地點→北科科研大樓 235教室/1222電腦教室 
 
