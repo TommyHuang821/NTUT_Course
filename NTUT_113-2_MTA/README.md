@@ -48,11 +48,23 @@ Python
 |第01週|2024/05/12 | 作業一: [Numba練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_numba_pratice.ipynb) ||科研1222|
 |第02週|2024/05/14 |- [生成式AI起手式-Language Model_part1 (Tokenizer為主, Transformer額外](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/ppt/%E7%94%9F%E6%88%90%E5%BC%8FAI%E8%B5%B7%E6%89%8B%E5%BC%8F-Language%20Model_part1.pdf) <br>- [NLP Tokenizer](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_Tokenizer.ipynb) <br>- [LLM互動](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/llmresponse.ipynb)|[Seq2Seq詳細介紹看這份投影片](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-1/ppt/week03_RNN%26Transformer.pdf)|科研1222|
 |第02週|2024/05/19 |作業二: [llmresponse練習](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/llmresponse_homework.ipynb)|LLM的回答請加上限制<br>「請以中文回答，幫我以50字以內回答」|科研1222|
-|第03週|2024/05/21 | ||科研1222|
+|第03週|2024/05/21 |[生成式AI起手式2-VAE&DDPM&SD](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/ppt/%E7%94%9F%E6%88%90%E5%BC%8FAI%E8%B5%B7%E6%89%8B%E5%BC%8F2-VAE%26DDPM%26SD.pdf)<br>code: [VAE](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_vae.ipynb)<br> code: [DDPM (MNIST)](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_Diffusion_handexample.ipynb) (文件內title打錯應該是DDPM)<br>code: [Stable Diffusion](https://github.com/TommyHuang821/NTUT_Course/blob/main/NTUT_113-2_MTA/code/main_diffusers_StableDiffusion.ipynb)||科研1222|
+|第03週|2024/05/26 |作業三: 交出一份.ipynb<br> 1. 生成一張圖片(程式碼、Prompt和參數要寫清楚)80%: 生成一個人，主體只有上半身，至少要一隻手在畫面上，主題不限性別不限<br>2. 寫出這兩周的GAI課程在操作上你的心得，從GPU或是CPU操作的感想來比較 20%||科研1222|
+
+
+
 
 **作業注意事項** <br>
 作業一: 題目三和四需要GPU加速，如果無法操作GPU請使用CPU版本(@jit修飾)<br>
 用CPU寫分數不變，用GPU寫會額外+10分。
+
+作業三: 
+第一題.
+- 生成內容五官清楚+5隻手指很清楚100分
+- 生成內容五官清楚+手指不清楚95分
+- 生成內容五官不清楚+手指清楚90分
+- 生成內容五官不清楚+手指不清楚85分
+- 都生不出來 → 嘗試到做到生出來吧 → 真的不行找助教協助跑你寫的程式，但Prompt需自行提供給助教(產生的內容評分同上)
 
 ------
 # OLLAMA下載
